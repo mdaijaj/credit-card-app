@@ -69,7 +69,7 @@ const Signup=()=>{
                         </div>
                         <button onClick={handleSubmit} className="btn btn-primary">
                             <span className="spinner-border spinner-border-sm mr-1"></span>
-                            Login
+                            Signup
                         </button>
                     </form>
                 </div>
